@@ -3,7 +3,7 @@
 
 **Team Name**: BrainiaQ  
 ## QBraid Launch 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=<https://github.com/archana070723/Nexus-Challenge.git>)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/archana070723/Nexus-Challenge.git)
 ---
 We have used data from the 'allPlanesVariables27-Feb-2021.mat' file in '081820_355n' folder
 
