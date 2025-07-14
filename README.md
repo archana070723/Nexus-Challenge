@@ -101,3 +101,7 @@ To run a full experiment pipeline: Experiments-Final.ipynb
 
 Control parameters like plane selection, quantum circuit depth, kernel type, and number of clusters via the parameter grid defined in `selected_parameters`.
 
+
+## Result Analysis
+
+Find reults and its analysis in Nexus-Phase3_Submission.pdf
