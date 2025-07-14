@@ -44,8 +44,8 @@ qbraid_provider.save_config()
 ```
 
 ```python
-from qiskit_ibm_runtime import QiskitRuntimeProvider
-ibm_provider = QiskitRuntimeProvider("<ibm-api-key>", "<hub-id>", channel='ibm_cloud')
+from qbraid.runtime.ibm import QiskitRuntimeProvider
+ibm_provider = QiskitRuntimeProvider("<ibm-api-key>", "<your-instance>", channel='ibm_cloud')
 ```
 
 2. Check system capabilities:
