@@ -95,12 +95,14 @@ linkage_matrix, labels = hierarchical_cluster(XYZ, dist_quantum)
 plot_figures(XYZ, linkage_matrix, labels, metric='fidelity')
 ```
 
-## Experiments
+### 6. Experiments
 
-To run a full experiment pipeline: Experiments-Final.ipynb
+To run a full experiment pipeline use Experiments-Final.ipynb file. 
 
-Control parameters like plane selection, quantum circuit depth, kernel type, and number of clusters via the parameter grid defined in `selected_parameters`.
+Control parameters like plane selection, quantum circuit depth, kernel type, and number of clusters, e.t.c. can be choosen in the experiment section which inturn is used in the parameter grid defined in `selected_parameters`.
 
+# Results Reproducability
+Experiments-Final.ipynb, Exp_runtime.ipynb file can be executed to reproduce the clustering and runtime results, respectively, as mentioned in the analysis pdf. This information also be generally found in Experiments-Final.ipynb for experiment of ones choice.
 
 ## Result Analysis
 
